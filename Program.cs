@@ -1,4 +1,3 @@
-﻿using System.Security.Cryptography;
 
 Console.WriteLine("*** rolando dado ***");
 
